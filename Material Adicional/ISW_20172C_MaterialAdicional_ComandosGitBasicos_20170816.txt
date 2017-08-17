@@ -1,0 +1,5 @@
+Comandos para hacer un push al server:
+
+git add .
+git commit -m "descripcion del commit"
+git push origin master
